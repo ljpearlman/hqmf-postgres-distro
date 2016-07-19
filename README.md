@@ -7,11 +7,11 @@ To prepare and run eCQM queries:
 2. Create the schema "results" (where your results will be placed) and create a few date-related helper functions:
 
 From within psql:
-  hqmf=> create schema results;
+  `hqmf=> create schema results;`
 
 Then:
-  psql -f omop_hqmf_etl/create_date_funcs.sql
+  `psql -f omop_hqmf_etl/create_date_funcs.sql`
 
-3. Run each of the SQL queries in the ecqm_queries directory. These assume that your QDM and results schemas were created with the default name (hqmf_test and results, respectively); i.e., that you didn't change them in step 1 above. The results will be stored in tables with names like results.measure_164_0_patient_summary.
+3  Run each of the SQL queries in the ecqm_queries directory. These assume that your QDM and results schemas were created with the default name (hqmf_test and results, respectively); i.e., that you didn't change them in step 1 above. The results will be stored in tables with names like results.measure_164_0_patient_summary.
 
 This is all prototype code that has undergone some preliminary testing.
