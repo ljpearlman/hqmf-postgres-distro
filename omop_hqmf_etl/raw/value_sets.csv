@@ -1,0 +1,800 @@
+value_set_oid,value_set_name,value_set_version
+1.3.6.1.4.1.33895.1.3.0.45,Comfort Measures ,20140401
+2.16.840.1.113762.1.4.1021.10,Warfarin-only ingredient specific,20140401
+2.16.840.1.113762.1.4.1021.11,Injectable factor Xa inhibitor for VTE prophylaxis ingredient specific,20140401
+2.16.840.1.113762.1.4.1021.12,Low Molecular Weight Heparin for VTE prophylaxis ingredient specific,20140401
+2.16.840.1.113762.1.4.1021.13,Unfractionated Heparin for VTE prophylaxis ingredient specific,20140401
+2.16.840.1.113762.1.4.1021.3,Aspirin ingredient specific,20140401
+2.16.840.1.113762.1.4.1021.4,Parenteral anticoagulant ingredient specific,20140401
+2.16.840.1.113762.1.4.1021.6,t-PA ingredient specific,20140401
+2.16.840.1.113762.1.4.1021.7,Statin ingredient specific,20140401
+2.16.840.1.113762.1.4.1021.8,Antithrombotic ingredient specific,20140401
+2.16.840.1.113762.1.4.1021.9,Anticoagulant ingredient specific,20140401
+2.16.840.1.113762.1.4.1045.14,Time of Symptom Onset,20140401
+2.16.840.1.113762.1.4.1045.15,Intravenous Thrombolytic (t-PA) Therapy,20140401
+2.16.840.1.113762.1.4.1045.18,Rehabilitation Assessment,20140401
+2.16.840.1.113762.1.4.1045.19,Rehabilitation Therapy,20140401
+2.16.840.1.113762.1.4.1045.21,Intravenous or Intra-arterial Thrombolytic (t-PA) Therapy,20140401
+2.16.840.1.113762.1.4.1045.24,Prothrombin Time,20140401
+2.16.840.1.113762.1.4.1045.25,Partial Thromboplastin Time,20140401
+2.16.840.1.113762.1.4.1045.26,Estimated Gestational Age at Delivery,20140401
+2.16.840.1.113762.1.4.1045.27,Cornual Ectopic Pregnancy,20140401
+2.16.840.1.113762.1.4.1045.28,Time of Delivery,20140401
+2.16.840.1.113762.1.4.1045.29,Feeding Intention-Breast,20140401
+2.16.840.1.113762.1.4.1045.31,Other Anticoagulants for AMI,20140401
+2.16.840.1.113762.1.4.1045.32,Hospital Measures-PACU,20140401
+2.16.840.1.113762.1.4.1045.36,NSTEMI,20140401
+2.16.840.1.113762.1.4.1045.39,Low Dose Unfractionated Heparin for VTE Prophylaxis,20140401
+2.16.840.1.113762.1.4.1045.3,IV Ceftriaxone,20140401
+2.16.840.1.113762.1.4.1045.41,Glycoprotein IIb/IIIa Inhibitors,20140401
+2.16.840.1.113762.1.4.1045.45,Thrombocytopenia,20140401
+2.16.840.1.113762.1.4.1045.47,Estimated Gestational Age at Birth,20140401
+2.16.840.1.113762.1.4.1045.52,Laparoscopic Procedures,20140401
+2.16.840.1.113762.1.4.1045.55,Oxytocin,20140401
+2.16.840.1.113762.1.4.1045.56,Dinoprostone,20140401
+2.16.840.1.113762.1.4.1045.57,Artificial Rupture of Membranes,20140401
+2.16.840.1.113762.1.4.1045.5,IM or PO Antimicrobial medications,20140401
+2.16.840.1.113762.1.4.1045.67,PCI,20140401
+2.16.840.1.113762.1.4.1045.69,Endotrachael Intubation,20140401
+2.16.840.1.113762.1.4.1045.6,IM or PO route,20140401
+2.16.840.1.113762.1.4.1045.74,Indwelling urinary catheter,20140401
+2.16.840.1.113762.1.4.1045.77,Tracheostomy care,20140401
+2.16.840.1.113762.1.4.1045.7,IV Cefazolin,20140401
+2.16.840.1.113762.1.4.1045.84,Reason For Admission to ICU due to Pneumonia,20140401
+2.16.840.1.113762.1.4.1045.8,IV Cefuroxime,20140401
+2.16.840.1.113762.1.4.1046.6,Liveborn Newborn Born in Hospital,20140401
+2.16.840.1.113762.1.4.1078.5,Delivery - Procedure,20140701
+2.16.840.1.113762.1.4.1080.2,Face to Face Interaction - No ED,20140701
+2.16.840.1.113762.1.4.1,ONC Administrative Sex,20140530
+2.16.840.1.113883.3.117.1.7.1.131,Asthma Management Plan,20140401
+2.16.840.1.113883.3.117.1.7.1.132,Discharged to Rehabilitation Facility,20140401
+2.16.840.1.113883.3.117.1.7.1.134,Oral Factor Xa Inhibitor for VTE Prophylaxis,20140401
+2.16.840.1.113883.3.117.1.7.1.136,Perforation of Uterus,20140401
+2.16.840.1.113883.3.117.1.7.1.137,Uterine Window,20140401
+2.16.840.1.113883.3.117.1.7.1.138,Uterine Rupture,20140401
+2.16.840.1.113883.3.117.1.7.1.139,Aspirin Allergen,20140401
+2.16.840.1.113883.3.117.1.7.1.14,Principal,20140701
+2.16.840.1.113883.3.117.1.7.1.200,Anticoagulant Therapy,20140401
+2.16.840.1.113883.3.117.1.7.1.201,Antithrombotic Therapy,20140401
+2.16.840.1.113883.3.117.1.7.1.202,Atrial Fibrillation/Flutter,20140701
+2.16.840.1.113883.3.117.1.7.1.203,Atrial Ablation,20140401
+2.16.840.1.113883.3.117.1.7.1.205,Direct Thrombin Inhibitor,20140401
+2.16.840.1.113883.3.117.1.7.1.207,Discharged to Health Care Facility for Hospice Care,20140401
+2.16.840.1.113883.3.117.1.7.1.209,Discharged to Home for Hospice Care,20140401
+2.16.840.1.113883.3.117.1.7.1.211,Injectable Factor Xa Inhibitor for VTE Prophylaxis,20140401
+2.16.840.1.113883.3.117.1.7.1.212,Hemorrhagic Stroke,20140401
+2.16.840.1.113883.3.117.1.7.1.213,INR,20140701
+2.16.840.1.113883.3.117.1.7.1.214,Intermittent pneumatic compression devices (IPC),20140401
+2.16.840.1.113883.3.117.1.7.1.215,LDL-c,20140401
+2.16.840.1.113883.3.117.1.7.1.217,Lipid-lowering Agent,20140401
+2.16.840.1.113883.3.117.1.7.1.218,Unfractionated Heparin,20140401
+2.16.840.1.113883.3.117.1.7.1.219,Low Molecular Weight Heparin for VTE Prophylaxis,20140401
+2.16.840.1.113883.3.117.1.7.1.222,Intravenous route,20140401
+2.16.840.1.113883.3.117.1.7.1.223,Subcutaneous route,20140401
+2.16.840.1.113883.3.117.1.7.1.225,Statin,20140401
+2.16.840.1.113883.3.117.1.7.1.226,Thrombolytic (t-PA) Therapy,20140401
+2.16.840.1.113883.3.117.1.7.1.230,Venous foot pumps (VFP),20140401
+2.16.840.1.113883.3.117.1.7.1.232,Warfarin,20140701
+2.16.840.1.113883.3.117.1.7.1.247,Ischemic Stroke,20140401
+2.16.840.1.113883.3.117.1.7.1.253,Clinical Pathway Protocol,20140401
+2.16.840.1.113883.3.117.1.7.1.255,General Surgery,20140401
+2.16.840.1.113883.3.117.1.7.1.256,Graduated compression stockings (GCS),20140401
+2.16.840.1.113883.3.117.1.7.1.257,Gynecological Surgery,20140401
+2.16.840.1.113883.3.117.1.7.1.258,Hip Fracture Surgery,20140401
+2.16.840.1.113883.3.117.1.7.1.259,Hip Replacement Surgery,20140401
+2.16.840.1.113883.3.117.1.7.1.25,Single Live Birth,20140401
+2.16.840.1.113883.3.117.1.7.1.260,Intracranial Neurosurgery,20140401
+2.16.840.1.113883.3.117.1.7.1.261,Knee Replacement Surgery,20140401
+2.16.840.1.113883.3.117.1.7.1.262,Mental Disorders,20140401
+2.16.840.1.113883.3.117.1.7.1.263,Obstetrics,20140401
+2.16.840.1.113883.3.117.1.7.1.264,Obstetrics VTE,20140401
+2.16.840.1.113883.3.117.1.7.1.266,Parenteral Anticoagulant,20140401
+2.16.840.1.113883.3.117.1.7.1.267,Platelet Count,20140401
+2.16.840.1.113883.3.117.1.7.1.269,National Institute of Health Stroke Scale,20140401
+2.16.840.1.113883.3.117.1.7.1.26,Single Liveborn Newborn Born in Hospital,20140401
+2.16.840.1.113883.3.117.1.7.1.271,Asthma,20140401
+2.16.840.1.113883.3.117.1.7.1.272,Urological Surgery,20140401
+2.16.840.1.113883.3.117.1.7.1.276,VTE Diagnostic Test,20140401
+2.16.840.1.113883.3.117.1.7.1.277,VTE Suspected,20140401
+2.16.840.1.113883.3.117.1.7.1.278,Treatment Adjusted by Protocol,20140401
+2.16.840.1.113883.3.117.1.7.1.279,Venous Thromboembolism,20140401
+2.16.840.1.113883.3.117.1.7.1.27,Dietary Intake Other than Breast Milk,20140401
+2.16.840.1.113883.3.117.1.7.1.281,Labor,20140401
+2.16.840.1.113883.3.117.1.7.1.282,Cesarean Section,20140401
+2.16.840.1.113883.3.117.1.7.1.286,Conditions Possibly Justifying Elective Delivery Prior to 39 Weeks Gestation,20140401
+2.16.840.1.113883.3.117.1.7.1.288,Medical Induction of Labor,20140401
+2.16.840.1.113883.3.117.1.7.1.292,Emergency Department Visit,20140401
+2.16.840.1.113883.3.117.1.7.1.295,Decision to Admit to Hospital Inpatient,20140401
+2.16.840.1.113883.3.117.1.7.1.299,Psychiatric/Mental Health Patient,20140401
+2.16.840.1.113883.3.117.1.7.1.2,SCIP Major Surgical Procedure,20140401
+2.16.840.1.113883.3.117.1.7.1.301,Medication Compliance Education,20140401
+2.16.840.1.113883.3.117.1.7.1.302,Vitamin K Dietary Management,20140401
+2.16.840.1.113883.3.117.1.7.1.303,Follow-up Monitoring,20140401
+2.16.840.1.113883.3.117.1.7.1.304,Adverse Drug Reactions Education,20140401
+2.16.840.1.113883.3.117.1.7.1.305,ICU Admission or Transfer,20140401
+2.16.840.1.113883.3.117.1.7.1.308,Left Against Medical Advice,20140401
+2.16.840.1.113883.3.117.1.7.1.309,Patient Expired,20140401
+2.16.840.1.113883.3.117.1.7.1.30,Breast Milk,20140401
+2.16.840.1.113883.3.117.1.7.1.357,VTE Risk Assessment,20140401
+2.16.840.1.113883.3.117.1.7.1.35,Galactosemia,20140401
+2.16.840.1.113883.3.117.1.7.1.372,Complication Mainly Related to Pregnancy,20140401
+2.16.840.1.113883.3.117.1.7.1.375,Complication of the Puerperium,20140401
+2.16.840.1.113883.3.117.1.7.1.377,Activation of Emergency Medical System Education,20140401
+2.16.840.1.113883.3.117.1.7.1.378,Instructions for Follow Up After Discharge,20140401
+2.16.840.1.113883.3.117.1.7.1.379,Prescribed Medications Education,20140401
+2.16.840.1.113883.3.117.1.7.1.380,Risk Factors Education,20140401
+2.16.840.1.113883.3.117.1.7.1.381,Warning Signs and Symptoms Education,20140401
+2.16.840.1.113883.3.117.1.7.1.38,Parenteral Infusion,20140401
+2.16.840.1.113883.3.117.1.7.1.391,Normal Delivery and Other Indications for Care,20140401
+2.16.840.1.113883.3.117.1.7.1.397,Complication Mainly in the Course of Labor and Delivery,20140401
+2.16.840.1.113883.3.117.1.7.1.400,Low Risk,20140401
+2.16.840.1.113883.3.117.1.7.1.401,Delivery Procedures,20140401
+2.16.840.1.113883.3.117.1.7.1.407,VTE Confirmed,20140401
+2.16.840.1.113883.3.117.1.7.1.412,Medical Contraindication,20140401
+2.16.840.1.113883.3.117.1.7.1.413,Recommendation not to change diet,20140401
+2.16.840.1.113883.3.117.1.7.1.414,Drug Interactions Education,20140401
+2.16.840.1.113883.3.117.1.7.1.415,Written Information Given,20140401
+2.16.840.1.113883.3.117.1.7.1.416,INR Monitoring Education,20140401
+2.16.840.1.113883.3.117.1.7.1.417,Baseline State,20140401
+2.16.840.1.113883.3.117.1.7.1.421,Classical Cesarean Section,20140401
+2.16.840.1.113883.3.117.1.7.1.422,Myomectomy,20140401
+2.16.840.1.113883.3.117.1.7.1.423,Statin Allergen,20140401
+2.16.840.1.113883.3.117.1.7.1.424,Non-Elective Inpatient Encounter,20140401
+2.16.840.1.113883.3.117.1.7.1.473,Medical Reason,20140401
+2.16.840.1.113883.3.117.1.7.1.70,Birth,20140401
+2.16.840.1.113883.3.117.1.7.1.75,Neonatal Intensive Care Unit (NICU),20140401
+2.16.840.1.113883.3.117.1.7.1.799,LDL-c Test,20140401
+2.16.840.1.113883.3.117.1.7.1.82,Discharge To Home Or Police Custody,20140401
+2.16.840.1.113883.3.117.1.7.1.87,Discharge To Another Hospital,20140401
+2.16.840.1.113883.3.117.1.7.1.93,Patient Refusal,20140401
+2.16.840.1.113883.3.1257.1.1504,BH Condition Involving Bipolar Disorder,20140701
+2.16.840.1.113883.3.1257.1.1505,BH Condition Involving Unipolar Depression,20140701
+2.16.840.1.113883.3.1257.1.1533,BH Electroconvulsive Therapy,20140701
+2.16.840.1.113883.3.1257.1.1604,BH Assessment for Alcohol or Other Drugs,20140701
+2.16.840.1.113883.3.1257.1.1616,BH Counseling for Depression,20140701
+2.16.840.1.113883.3.1257.1.1652,BH Medical or psychiatric consultation,20140701
+2.16.840.1.113883.3.1257.1.950,BH Mood Stabilizer Medication,20140701
+2.16.840.1.113883.3.1257.1.972,BH Antidepressant Medication,20140701
+2.16.840.1.113883.3.1257.1.973,BH Outpatient Psychotherapy,20140701
+2.16.840.1.113883.3.464.1003.101.12.1001,Office Visit,20140530
+2.16.840.1.113883.3.464.1003.101.12.1002,Hospital Observation Care - Initial,20140701
+2.16.840.1.113883.3.464.1003.101.12.1004,Hospital Inpatient Visit - Initial,20140701
+2.16.840.1.113883.3.464.1003.101.12.1006,Discharge Services - Hospital Inpatient Same Day Discharge,20140701
+2.16.840.1.113883.3.464.1003.101.12.1007,Discharge Services - Hospital Inpatient,20140701
+2.16.840.1.113883.3.464.1003.101.12.1008,Outpatient Consultation,20140701
+2.16.840.1.113883.3.464.1003.101.12.1010,Emergency Department Visit,20140701
+2.16.840.1.113883.3.464.1003.101.12.1012,Nursing Facility Visit,20140701
+2.16.840.1.113883.3.464.1003.101.12.1013,Discharge Services - Nursing Facility,20140701
+2.16.840.1.113883.3.464.1003.101.12.1014,Care Services in Long-Term Residential Facility,20140701
+2.16.840.1.113883.3.464.1003.101.12.1016,Home Healthcare Services,20140530
+2.16.840.1.113883.3.464.1003.101.12.1022,"Preventive Care- Initial Office Visit, 0 to 17",20140701
+2.16.840.1.113883.3.464.1003.101.12.1023,"Preventive Care Services-Initial Office Visit, 18 and Up",20140530
+2.16.840.1.113883.3.464.1003.101.12.1024,"Preventive Care - Established Office Visit, 0 to 17",20140701
+2.16.840.1.113883.3.464.1003.101.12.1025,"Preventive Care Services - Established Office Visit, 18 and Up",20140530
+2.16.840.1.113883.3.464.1003.101.12.1026,Preventive Care Services-Individual Counseling,20140701
+2.16.840.1.113883.3.464.1003.101.12.1027,Preventive Care Services - Group Counseling,20140701
+2.16.840.1.113883.3.464.1003.101.12.1030,Preventive Care Services - Other,20140701
+2.16.840.1.113883.3.464.1003.101.12.1031,Telehealth Services,20140701
+2.16.840.1.113883.3.464.1003.101.12.1039,Discharge Services- Observation Care,20140701
+2.16.840.1.113883.3.464.1003.101.12.1046,Referral,20140701
+2.16.840.1.113883.3.464.1003.101.12.1047,HIV Visit,20140701
+2.16.840.1.113883.3.464.1003.101.12.1048,Face-to-Face Interaction,20140530
+2.16.840.1.113883.3.464.1003.101.12.1053,Telephone Management,20140701
+2.16.840.1.113883.3.464.1003.101.12.1054,Behavioral Health Follow-up Visit,20140701
+2.16.840.1.113883.3.464.1003.101.12.1055,Psychotherapy and Pharmacologic Management,20140701
+2.16.840.1.113883.3.464.1003.101.12.1056,Blood Pressure Visit,20140701
+2.16.840.1.113883.3.464.1003.101.12.1059,Detoxification Visit,20140701
+2.16.840.1.113883.3.464.1003.101.12.1060,Inpatient Encounter,20140701
+2.16.840.1.113883.3.464.1003.101.12.1061,Ambulatory/ED Visit,20140701
+2.16.840.1.113883.3.464.1003.102.12.1002,Cystic Fibrosis,20140701
+2.16.840.1.113883.3.464.1003.102.12.1004,Emphysema,20140701
+2.16.840.1.113883.3.464.1003.102.12.1007,Chronic Obstructive Pulmonary Disease,20140701
+2.16.840.1.113883.3.464.1003.102.12.1011,Acute Pharyngitis,20140701
+2.16.840.1.113883.3.464.1003.102.12.1012,Acute Tonsillitis,20140701
+2.16.840.1.113883.3.464.1003.102.12.1017,Competing Conditions for Respiratory Conditions,20140701
+2.16.840.1.113883.3.464.1003.102.12.1018,Acute Respiratory Failure,20140701
+2.16.840.1.113883.3.464.1003.102.12.1022,Upper Respiratory Infection,20140701
+2.16.840.1.113883.3.464.1003.102.12.1023,Persistent Asthma,20140701
+2.16.840.1.113883.3.464.1003.103.12.1001,Diabetes,20140530
+2.16.840.1.113883.3.464.1003.103.12.1012,Diabetes Visit,20140701
+2.16.840.1.113883.3.464.1003.103.12.1013,Visual Exam of Foot,20140701
+2.16.840.1.113883.3.464.1003.103.12.1014,Sensory Exam of Foot,20140701
+2.16.840.1.113883.3.464.1003.103.12.1015,Pulse Exam of Foot,20140701
+2.16.840.1.113883.3.464.1003.104.12.1001,Acute Myocardial Infarction,20140701
+2.16.840.1.113883.3.464.1003.104.12.1002,Coronary Artery Bypass Graft,20140701
+2.16.840.1.113883.3.464.1003.104.12.1003,Ischemic Vascular Disease,20140701
+2.16.840.1.113883.3.464.1003.104.12.1010,Percutaneous Coronary Interventions,20140701
+2.16.840.1.113883.3.464.1003.104.12.1011,Essential Hypertension,20140701
+2.16.840.1.113883.3.464.1003.104.12.1012,HDL-C Laboratory Test,20140701
+2.16.840.1.113883.3.464.1003.104.12.1013,Total Cholesterol Laboratory Test,20140701
+2.16.840.1.113883.3.464.1003.104.12.1014,Triglycerides Laboratory Test,20140701
+2.16.840.1.113883.3.464.1003.104.12.1017,Valvular Heart Disease,20140701
+2.16.840.1.113883.3.464.1003.104.12.1018,Computed Value INR percent TTR,20140701
+2.16.840.1.113883.3.464.1003.105.12.1004,Mental Health Diagnoses,20140701
+2.16.840.1.113883.3.464.1003.105.12.1007,Major Depression,20140701
+2.16.840.1.113883.3.464.1003.106.12.1001,Alcohol and Drug Dependence,20140701
+2.16.840.1.113883.3.464.1003.106.12.1003,IV Drug Abuse,20140701
+2.16.840.1.113883.3.464.1003.106.12.1004,Substance Abuse,20140701
+2.16.840.1.113883.3.464.1003.106.12.1005,Alcohol and Drug Dependence Treatment,20140701
+2.16.840.1.113883.3.464.1003.108.12.1001,Malignant Neoplasm of Colon,20140701
+2.16.840.1.113883.3.464.1003.108.12.1009,Malignant Neoplasm of Lymphatic and Hematopietic Tissue,20140701
+2.16.840.1.113883.3.464.1003.108.12.1011,All Cancer,20140701
+2.16.840.1.113883.3.464.1003.108.12.1017,Pap Test,20140701
+2.16.840.1.113883.3.464.1003.108.12.1018,Mammogram,20140701
+2.16.840.1.113883.3.464.1003.108.12.1020,Colonoscopy,20140701
+2.16.840.1.113883.3.464.1003.109.12.1004,Diabetic Nephropathy,20140701
+2.16.840.1.113883.3.464.1003.109.12.1005,Microalbumin Test,20140701
+2.16.840.1.113883.3.464.1003.109.12.1011,Vascular Access for Dialysis,20140701
+2.16.840.1.113883.3.464.1003.109.12.1012,Kidney Transplant,20140701
+2.16.840.1.113883.3.464.1003.109.12.1013,Dialysis Services,20140701
+2.16.840.1.113883.3.464.1003.109.12.1014,ESRD Monthly Outpatient Services,20140701
+2.16.840.1.113883.3.464.1003.109.12.1015,Other Services Related to Dialysis,20140701
+2.16.840.1.113883.3.464.1003.109.12.1016,Dialysis Education,20140701
+2.16.840.1.113883.3.464.1003.109.12.1017,Hypertensive Chronic Kidney Disease,20140701
+2.16.840.1.113883.3.464.1003.109.12.1018,Glomerulonephritis and Nephrotic Syndrome,20140701
+2.16.840.1.113883.3.464.1003.109.12.1019,Macroalbumin Test,20140701
+2.16.840.1.113883.3.464.1003.110.12.1022,DTaP Vaccine Administered,20140701
+2.16.840.1.113883.3.464.1003.110.12.1024,Hepatitis A,20140701
+2.16.840.1.113883.3.464.1003.110.12.1025,Hepatitis B,20140701
+2.16.840.1.113883.3.464.1003.110.12.1027,Pneumococcal Vaccine,20140701
+2.16.840.1.113883.3.464.1003.110.12.1028,History of Pneumococcal Vaccine,20140701
+2.16.840.1.113883.3.464.1003.110.12.1031,"Measles, Mumps and Rubella (MMR) Vaccine Administered",20140701
+2.16.840.1.113883.3.464.1003.110.12.1032,Mumps,20140701
+2.16.840.1.113883.3.464.1003.110.12.1034,Pneumococcal Vaccine Administered,20140701
+2.16.840.1.113883.3.464.1003.110.12.1037,Rubella,20140701
+2.16.840.1.113883.3.464.1003.110.12.1039,Varicella Zoster,20140701
+2.16.840.1.113883.3.464.1003.110.12.1040,Varicella Zoster Vaccine (VZV) Administered,20140701
+2.16.840.1.113883.3.464.1003.110.12.1041,Hepatitis A Vaccine Administered,20140701
+2.16.840.1.113883.3.464.1003.110.12.1042,Hepatitis B Vaccine Administered,20140701
+2.16.840.1.113883.3.464.1003.110.12.1043,Hemophilus Influenze B (HiB) Vaccine Administered,20140701
+2.16.840.1.113883.3.464.1003.110.12.1044,Influenza Vaccine Administered,20140701
+2.16.840.1.113883.3.464.1003.110.12.1045,Inactivated Polio Vaccine (IPV) Administered,20140701
+2.16.840.1.113883.3.464.1003.110.12.1046,Pneumococcal Conjugate Vaccine Administered,20140701
+2.16.840.1.113883.3.464.1003.110.12.1047,Rotavirus Vaccine (3 dose schedule) Administered,20140701
+2.16.840.1.113883.3.464.1003.110.12.1048,Rotavirus Vaccine (2 dose schedule) Administered,20140701
+2.16.840.1.113883.3.464.1003.110.12.1049,Genital Herpes,20140701
+2.16.840.1.113883.3.464.1003.110.12.1051,Lab Tests for Sexually Transmitted Infections,20140701
+2.16.840.1.113883.3.464.1003.110.12.1052,Chlamydia Screening,20140701
+2.16.840.1.113883.3.464.1003.110.12.1053,Measles,20140701
+2.16.840.1.113883.3.464.1003.110.12.1054,Seropositive,20140701
+2.16.840.1.113883.3.464.1003.111.12.1006,Other Female Reproductive Conditions,20140701
+2.16.840.1.113883.3.464.1003.111.12.1007,Lab Tests During Pregnancy,20140701
+2.16.840.1.113883.3.464.1003.111.12.1008,Diagnostic Studies During Pregnancy,20140701
+2.16.840.1.113883.3.464.1003.111.12.1009,Procedures During Pregnancy,20140701
+2.16.840.1.113883.3.464.1003.111.12.1010,Procedures Involving Contraceptive Devices,20140701
+2.16.840.1.113883.3.464.1003.111.12.1011,Pregnancy Test,20140701
+2.16.840.1.113883.3.464.1003.111.12.1012,"Complications of Pregnancy, Childbirth and the Puerperium",20140701
+2.16.840.1.113883.3.464.1003.111.12.1013,Maternal Post Partum Depression Care,20140701
+2.16.840.1.113883.3.464.1003.111.12.1014,Maternal Post Partum Depression Screening,20140701
+2.16.840.1.113883.3.464.1003.111.12.1015,Delivery Live Births,20140701
+2.16.840.1.113883.3.464.1003.112.12.1001,Gonococcal Infections and Venereal Diseases,20140701
+2.16.840.1.113883.3.464.1003.112.12.1002,Syphilis,20140701
+2.16.840.1.113883.3.464.1003.112.12.1003,Chlamydia,20140701
+2.16.840.1.113883.3.464.1003.112.12.1004,Inflammatory Diseases of Female Reproductive Organs,20140701
+2.16.840.1.113883.3.464.1003.113.12.1001,Low Back Pain,20140701
+2.16.840.1.113883.3.464.1003.113.12.1033,X-Ray of Lower Spine,20140701
+2.16.840.1.113883.3.464.1003.113.12.1034,MRI of Lower Spine,20140701
+2.16.840.1.113883.3.464.1003.113.12.1035,CT Scan of Lower Spine,20140701
+2.16.840.1.113883.3.464.1003.113.12.1036,Trauma,20140701
+2.16.840.1.113883.3.464.1003.113.12.1037,Fracture - Lower Body,20140701
+2.16.840.1.113883.3.464.1003.114.12.1007,Encephalopathy,20140701
+2.16.840.1.113883.3.464.1003.114.12.1011,Narcolepsy,20140701
+2.16.840.1.113883.3.464.1003.114.12.1012,Neurologic impairment,20140701
+2.16.840.1.113883.3.464.1003.115.12.1088,Retinal or Dilated Eye Exam,20140701
+2.16.840.1.113883.3.464.1003.118.12.1009,Patient not ambulatory,20140701
+2.16.840.1.113883.3.464.1003.118.12.1028,Falls Screening,20140701
+2.16.840.1.113883.3.464.1003.118.12.1029,Functional Status Assessment  for Hip Replacement,20140701
+2.16.840.1.113883.3.464.1003.118.12.1030,Functional Status Assessment for Knee Replacement,20140701
+2.16.840.1.113883.3.464.1003.118.12.1031,Functional Status Assessment for Heart Failure,20140701
+2.16.840.1.113883.3.464.1003.118.12.1035,Counseling for Physical Activity,20140701
+2.16.840.1.113883.3.464.1003.120.12.1001,Disorders of the Immune System,20140701
+2.16.840.1.113883.3.464.1003.120.12.1002,HIV Viral Load,20140701
+2.16.840.1.113883.3.464.1003.120.12.1003,HIV,20140701
+2.16.840.1.113883.3.464.1003.121.12.1004,CD4+ Count,20140701
+2.16.840.1.113883.3.464.1003.121.12.1005,CD4+ Percentage,20140701
+2.16.840.1.113883.3.464.1003.121.12.1006,Consultant Report,20140701
+2.16.840.1.113883.3.464.1003.121.12.1012,BMI percentile,20140701
+2.16.840.1.113883.3.464.1003.121.12.1013,Delta systolic blood pressure,20140701
+2.16.840.1.113883.3.464.1003.121.12.1014,Height,20140701
+2.16.840.1.113883.3.464.1003.121.12.1015,Weight,20140701
+2.16.840.1.113883.3.464.1003.121.12.1016,Positive Finding,20140701
+2.16.840.1.113883.3.464.1003.122.12.1003,Ambulatory,20140701
+2.16.840.1.113883.3.464.1003.125.12.1002,Fluoride Varnish Application for Children,20140701
+2.16.840.1.113883.3.464.1003.125.12.1003,Clinical Oral Evaluation,20140701
+2.16.840.1.113883.3.464.1003.125.12.1004,Dental Caries,20140701
+2.16.840.1.113883.3.464.1003.195.12.1002,Negative Finding,20140701
+2.16.840.1.113883.3.464.1003.195.12.1003,Counseling for Nutrition,20140701
+2.16.840.1.113883.3.464.1003.196.12.1001,Antibiotic Medications for Pharyngitis,20140701
+2.16.840.1.113883.3.464.1003.196.12.1076,Pneumocystis Jiroveci Pneumonia (PCP) Prophylaxis,20140701
+2.16.840.1.113883.3.464.1003.196.12.1080,Contraceptive Medications,20140701
+2.16.840.1.113883.3.464.1003.196.12.1143,Isotretinoin,20140701
+2.16.840.1.113883.3.464.1003.196.12.1170,Varicella Zoster Vaccine (VZV),20140701
+2.16.840.1.113883.3.464.1003.196.12.1171,ADHD Medications,20140701
+2.16.840.1.113883.3.464.1003.196.12.1202,Dapsone and pyrimethamine,20140701
+2.16.840.1.113883.3.464.1003.196.12.1205,Leucovorin,20140701
+2.16.840.1.113883.3.464.1003.196.12.1211,Aspirin and Other Anti-thrombotics,20140701
+2.16.840.1.113883.3.464.1003.196.12.1212,Preferred Asthma Therapy,20140701
+2.16.840.1.113883.3.464.1003.196.12.1213,Antidepressant Medication,20140701
+2.16.840.1.113883.3.464.1003.196.12.1214,DTaP Vaccine,20140701
+2.16.840.1.113883.3.464.1003.196.12.1215,Hepatitis A Vaccine,20140701
+2.16.840.1.113883.3.464.1003.196.12.1216,Hepatitis B Vaccine,20140701
+2.16.840.1.113883.3.464.1003.196.12.1217,Hemophilus Influenze B (HiB) Vaccine,20140701
+2.16.840.1.113883.3.464.1003.196.12.1218,Influenza Vaccine,20140701
+2.16.840.1.113883.3.464.1003.196.12.1219,Inactivated Polio Vaccine (IPV),20140701
+2.16.840.1.113883.3.464.1003.196.12.1221,Pneumococcal Conjugate Vaccine,20140701
+2.16.840.1.113883.3.464.1003.196.12.1222,Rotavirus Vaccine (2 dose schedule),20140701
+2.16.840.1.113883.3.464.1003.196.12.1223,Rotavirus Vaccine (3 dose schedule),20140701
+2.16.840.1.113883.3.464.1003.196.12.1224,"Measles, Mumps and Rubella (MMR) Vaccine",20140701
+2.16.840.1.113883.3.464.1003.196.12.1253,High Risk Medications for the Elderly,20140701
+2.16.840.1.113883.3.464.1003.196.12.1254,High-Risk Medications With Days Supply Criteria,20140701
+2.16.840.1.113883.3.464.1003.198.12.1005,Bilateral Mastectomy,20140701
+2.16.840.1.113883.3.464.1003.198.12.1006,Primary THA Procedure,20140701
+2.16.840.1.113883.3.464.1003.198.12.1007,Primary TKA Procedure,20140701
+2.16.840.1.113883.3.464.1003.198.12.1010,Flexible Sigmoidoscopy,20140701
+2.16.840.1.113883.3.464.1003.198.12.1011,Fecal Occult Blood Test (FOBT),20140701
+2.16.840.1.113883.3.464.1003.198.12.1012,Group A Streptococcus Test,20140701
+2.16.840.1.113883.3.464.1003.198.12.1013,HbA1c Laboratory Test,20140530
+2.16.840.1.113883.3.464.1003.198.12.1014,Hysterectomy with No Residual Cervix,20140701
+2.16.840.1.113883.3.464.1003.198.12.1019,Total Colectomy,20140701
+2.16.840.1.113883.3.464.1003.198.12.1020,Unilateral Mastectomy,20140701
+2.16.840.1.113883.3.464.1003.198.12.1028,Mumps Antigen Test,20140701
+2.16.840.1.113883.3.464.1003.198.12.1029,Measles Antigen Test,20140701
+2.16.840.1.113883.3.464.1003.198.12.1030,Rubella Antigen Test,20140701
+2.16.840.1.113883.3.464.1003.198.12.1031,Hepatitis B Antigen Test,20140701
+2.16.840.1.113883.3.464.1003.198.12.1032,Varicella Zoster Antigen Test,20140701
+2.16.840.1.113883.3.464.1003.198.12.1033,Hepatitis A Antigen Test,20140701
+2.16.840.1.113883.3.464.1003.198.12.1034,X-Ray Study (all inclusive),20140701
+2.16.840.1.113883.3.464.1003.199.12.1021,Anaphylactic Reaction to Rotavirus Vaccine,20140701
+2.16.840.1.113883.3.464.1003.199.12.1022,Anaphylactic Reaction to Influenza Vaccine,20140701
+2.16.840.1.113883.3.464.1003.199.12.1023,Anaphylactic Reaction to Inactivated Polio Vaccine (IPV),20140701
+2.16.840.1.113883.3.464.1003.199.12.1024,Anaphylactic Reaction to Neomycin,20140701
+2.16.840.1.113883.3.464.1003.199.12.1025,Anaphylactic Reaction to Polymyxin,20140701
+2.16.840.1.113883.3.464.1003.199.12.1026,Anaphylactic Reaction to Hepatitis A Vaccine,20140701
+2.16.840.1.113883.3.464.1003.199.12.1027,Anaphylactic Reaction to Pneumococcal Conjugate Vaccine,20140701
+2.16.840.1.113883.3.464.1003.199.12.1028,Anaphylactic Reaction to Streptomycin,20140701
+2.16.840.1.113883.3.464.1003.199.12.1029,Anaphylactic Reaction to Hepatitis B Vaccine,20140701
+2.16.840.1.113883.3.464.1003.199.12.1030,Anaphylactic Reaction to Hemophilus Influenza B (HiB) Vaccine,20140701
+2.16.840.1.113883.3.464.1003.199.12.1031,Anaphylactic Reaction to DTaP Vaccine,20140701
+2.16.840.1.113883.3.464.1003.199.12.1032,Anaphylactic Reaction to Common Baker's Yeast,20140701
+2.16.840.1.113883.3.464.1.49,BH Outpatient encounter,20140701
+2.16.840.1.113883.3.526.2.1044,Systolic Blood Pressure,20140530
+2.16.840.1.113883.3.526.2.1045,Diastolic Blood Pressure,20140530
+2.16.840.1.113883.3.526.2.643,Clinical Trial Participant,20140401
+2.16.840.1.113883.3.526.3.1002,"Chronic Kidney Disease, Stage 5",20140701
+2.16.840.1.113883.3.526.3.1003,Proteinuria,20140701
+2.16.840.1.113883.3.526.3.1005,Dementia & Mental Degenerations,20140701
+2.16.840.1.113883.3.526.3.1006,Standardized Tools for Assessment of Cognition,20140701
+2.16.840.1.113883.3.526.3.1007,Medical Reason,20140701
+2.16.840.1.113883.3.526.3.1008,Patient Reason,20140701
+2.16.840.1.113883.3.526.3.1009,System Reason,20140701
+2.16.840.1.113883.3.526.3.1010,Cancer,20140701
+2.16.840.1.113883.3.526.3.1011,Occupational Therapy Evaluation,20140701
+2.16.840.1.113883.3.526.3.1012,Patient Provider Interaction,20140701
+2.16.840.1.113883.3.526.3.1018,Psych Visit - Family Psychotherapy,20140701
+2.16.840.1.113883.3.526.3.1020,Health & Behavioral Assessment - Individual,20140701
+2.16.840.1.113883.3.526.3.1023,Behavioral/Neuropsych Assessment,20140701
+2.16.840.1.113883.3.526.3.1024,Palliative Care,20140701
+2.16.840.1.113883.3.526.3.1025,Severe Dementia,20140701
+2.16.840.1.113883.3.526.3.1026,Radiation Treatment Management,20140701
+2.16.840.1.113883.3.526.3.1027,Chemotherapy Administration,20140701
+2.16.840.1.113883.3.526.3.1028,Standardized Pain Assessment Tool,20140701
+2.16.840.1.113883.3.526.3.1032,Systolic Blood Pressure,20140701
+2.16.840.1.113883.3.526.3.1033,Diastolic Blood Pressure,20140701
+2.16.840.1.113883.3.526.3.1083,Hemodialysis,20140701
+2.16.840.1.113883.3.526.3.1084,Peritoneal Dialysis,20140701
+2.16.840.1.113883.3.526.3.1090,Moderate or Severe LVSD,20140701
+2.16.840.1.113883.3.526.3.1091,Left Ventricular Systolic Dysfunction,20140701
+2.16.840.1.113883.3.526.3.1092,Moderate or Severe,20140701
+2.16.840.1.113883.3.526.3.1098,Clinical Staging Procedure,20140701
+2.16.840.1.113883.3.526.3.1125,Clinical Trial Participant,20140701
+2.16.840.1.113883.3.526.3.1134,Ejection Fraction,20140701
+2.16.840.1.113883.3.526.3.1139,ACE Inhibitor or ARB,20140701
+2.16.840.1.113883.3.526.3.1140,Patient Reason for ACE Inhibitor or ARB Decline,20140701
+2.16.840.1.113883.3.526.3.1141,Psychoanalysis,20140701
+2.16.840.1.113883.3.526.3.1151,Renal Failure Due to ACE Inhibitor,20140701
+2.16.840.1.113883.3.526.3.1164,Breast Cancer Primary Tumor Size T1a,20140701
+2.16.840.1.113883.3.526.3.1170,Tobacco User,20140701
+2.16.840.1.113883.3.526.3.1174,Beta Blocker Therapy,20140701
+2.16.840.1.113883.3.526.3.1176,Heart Rate,20140701
+2.16.840.1.113883.3.526.3.1177,Allergy to Beta Blocker Therapy,20140701
+2.16.840.1.113883.3.526.3.1178,Intolerance to Beta Blocker Therapy,20140701
+2.16.840.1.113883.3.526.3.1184,Beta Blocker Therapy for LVSD,20140701
+2.16.840.1.113883.3.526.3.1185,Previous Receipt of Influenza Vaccine,20140701
+2.16.840.1.113883.3.526.3.1187,Group Psychotherapy,20140701
+2.16.840.1.113883.3.526.3.1189,Tobacco Non-User,20140701
+2.16.840.1.113883.3.526.3.1190,Tobacco Use Cessation Pharmacotherapy,20140701
+2.16.840.1.113883.3.526.3.1193,Cardiac Pacer,20140701
+2.16.840.1.113883.3.526.3.1197,Breast Cancer Primary Tumor Size T1mi,20140701
+2.16.840.1.113883.3.526.3.1211,Allergy to ACE Inhibitor or ARB,20140701
+2.16.840.1.113883.3.526.3.1212,Intolerance to ACE Inhibitor or ARB,20140701
+2.16.840.1.113883.3.526.3.1240,Annual Wellness Visit,20140530
+2.16.840.1.113883.3.526.3.1241,Acute and Subacute Iridocyclitis,20140701
+2.16.840.1.113883.3.526.3.1245,Health and Behavioral Assessment - Initial,20140701
+2.16.840.1.113883.3.526.3.1248,LDL-C Laboratory Test,20140701
+2.16.840.1.113883.3.526.3.1251,Macular Exam,20140701
+2.16.840.1.113883.3.526.3.1252,Encounter-Influenza,20140701
+2.16.840.1.113883.3.526.3.1253,Allergy to Eggs,20140701
+2.16.840.1.113883.3.526.3.1254,Influenza Vaccine,20140701
+2.16.840.1.113883.3.526.3.1255,Influenza Vaccination Declined,20140701
+2.16.840.1.113883.3.526.3.1256,Allergy to Influenza Vaccine,20140701
+2.16.840.1.113883.3.526.3.1257,Intolerance to Influenza Vaccine,20140701
+2.16.840.1.113883.3.526.3.1259,Limited Life Expectancy,20140701
+2.16.840.1.113883.3.526.3.1270,Breast Cancer Primary Tumor Size T1b,20140701
+2.16.840.1.113883.3.526.3.1278,Tobacco Use Screening,20140701
+2.16.840.1.113883.3.526.3.1279,ECOG Performance Status-Poor,20140701
+2.16.840.1.113883.3.526.3.1280,Allergy to Antineoplastic Therapy,20140701
+2.16.840.1.113883.3.526.3.1283,Level of Severity of Retinopathy Findings,20140701
+2.16.840.1.113883.3.526.3.1284,Macular Edema Findings Absent,20140701
+2.16.840.1.113883.3.526.3.1285,Ophthalmological Services,20140701
+2.16.840.1.113883.3.526.3.1287,Intolerance to Antineoplastic Therapy,20140701
+2.16.840.1.113883.3.526.3.1288,Chemotherapy for Colon Cancer - Capecitabine,20140701
+2.16.840.1.113883.3.526.3.1289,Chemotherapy for Colon Cancer - Fluorouracil,20140701
+2.16.840.1.113883.3.526.3.1290,Chemotherapy for Colon Cancer - Leucovorin and Levo-Leucovorin,20140701
+2.16.840.1.113883.3.526.3.1291,Chemotherapy for Colon Cancer - Oxaliplatin,20140701
+2.16.840.1.113883.3.526.3.1292,Colon Cancer Primary Tumor Size T1,20140701
+2.16.840.1.113883.3.526.3.1293,Colon Cancer Primary Tumor Size T2,20140701
+2.16.840.1.113883.3.526.3.1294,Colon Cancer Primary Tumor Size T3,20140701
+2.16.840.1.113883.3.526.3.1295,Colon Cancer Primary Tumor Size T4a,20140701
+2.16.840.1.113883.3.526.3.1296,Colon Cancer Primary Tumor Size T4b,20140701
+2.16.840.1.113883.3.526.3.1297,Colon Cancer Regional Lymph Node Status N1,20140701
+2.16.840.1.113883.3.526.3.1298,Colon Cancer Regional Lymph Node Status N1c,20140701
+2.16.840.1.113883.3.526.3.1299,Colon Cancer Regional Lymph Node Status N2,20140701
+2.16.840.1.113883.3.526.3.1300,Colon Cancer Regional Lymph Node Status N2a,20140701
+2.16.840.1.113883.3.526.3.1301,Colon Cancer Regional Lymph Node Status N2b,20140701
+2.16.840.1.113883.3.526.3.1302,Breast Distant Metastasis Status M0,20140701
+2.16.840.1.113883.3.526.3.1303,Breast Cancer ER or PR Positive,20140701
+2.16.840.1.113883.3.526.3.1304,Breast Cancer Primary Tumor Size T0,20140701
+2.16.840.1.113883.3.526.3.1305,Breast Cancer Primary Tumor Size T1,20140701
+2.16.840.1.113883.3.526.3.1306,Breast Cancer Primary Tumor Size T1c,20140701
+2.16.840.1.113883.3.526.3.1307,Breast Cancer Primary Tumor Size T2,20140701
+2.16.840.1.113883.3.526.3.1308,Breast Cancer Primary Tumor Size T3,20140701
+2.16.840.1.113883.3.526.3.1309,Breast Cancer Primary Tumor Size T4,20140701
+2.16.840.1.113883.3.526.3.1310,Breast Cancer Regional Lymph Node Status N0,20140701
+2.16.840.1.113883.3.526.3.1311,Breast Cancer Regional Lymph Node Status pN1a,20140701
+2.16.840.1.113883.3.526.3.1312,Breast Cancer Regional Lymph Node Status pN1mi,20140701
+2.16.840.1.113883.3.526.3.1313,Breast Cancer Regional Lymph Node Status N2,20140701
+2.16.840.1.113883.3.526.3.1314,Breast Cancer Regional Lymph Node Status N3,20140701
+2.16.840.1.113883.3.526.3.1315,Tamoxifen or Aromatase Inhibitor Therapy,20140701
+2.16.840.1.113883.3.526.3.1316,Gonadotropin-Releasing Hormone Analogue Medication,20140701
+2.16.840.1.113883.3.526.3.1317,Allergy to Tamoxifen or Aromatase Inhibitor Therapy,20140701
+2.16.840.1.113883.3.526.3.1318,Intolerance to Tamoxifen or Aromatase Inhibitor Therapy,20140701
+2.16.840.1.113883.3.526.3.1320,Macular Edema Findings Present,20140701
+2.16.840.1.113883.3.526.3.1325,Prostate Cancer Primary Tumor Size T1c,20140701
+2.16.840.1.113883.3.526.3.1326,Prostate Cancer Primary Tumor Size T2a,20140701
+2.16.840.1.113883.3.526.3.1327,Colon Cancer Regional Lymph Node Status N1a,20140701
+2.16.840.1.113883.3.526.3.1328,Colon Cancer Regional Lymph Node Status N1b,20140701
+2.16.840.1.113883.3.526.3.1329,Breast Cancer Regional Lymph Node Status N1,20140701
+2.16.840.1.113883.3.526.3.1480,Other Proliferative Retinopathy,20140701
+2.16.840.1.113883.3.526.3.1330,Breast Cancer Regional Lymph Node Status pN1b,20140701
+2.16.840.1.113883.3.526.3.1331,Breast Cancer Regional Lymph Node Status pN1c,20140701
+2.16.840.1.113883.3.526.3.1332,Cognitive Assessment,20140701
+2.16.840.1.113883.3.526.3.1333,Cup to Disc Ratio,20140701
+2.16.840.1.113883.3.526.3.1334,Optic Disc Exam for Structural Abnormalities,20140701
+2.16.840.1.113883.3.526.3.1337,Colon Distant Metastasis Status M0,20140701
+2.16.840.1.113883.3.526.3.1339,Radiation Therapy II,20140701
+2.16.840.1.113883.3.526.3.1405,Adhesions and Disruptions of Iris and Ciliary Body,20140701
+2.16.840.1.113883.3.526.3.1406,Anomalies of Puillary Function,20140701
+2.16.840.1.113883.3.526.3.1407,Aphakia and Other Disorders of Lens,20140701
+2.16.840.1.113883.3.526.3.1408,Aspiration and Injection Procedures,20140701
+2.16.840.1.113883.3.526.3.1409,Burn Confined to Eye and Adnexa,20140701
+2.16.840.1.113883.3.526.3.1410,Cataract Secondary to Ocular Disorders,20140701
+2.16.840.1.113883.3.526.3.1411,Cataract Surgery,20140701
+2.16.840.1.113883.3.526.3.1412,"Cataract, Congenital",20140701
+2.16.840.1.113883.3.526.3.1413,"Cataract, Mature or Hypermature",20140701
+2.16.840.1.113883.3.526.3.1414,"Cataract, Posterior Polar",20140701
+2.16.840.1.113883.3.526.3.1415,Certain Types of Iridocyclitis,20140701
+2.16.840.1.113883.3.526.3.1416,Chronic Iridocyclitis,20140701
+2.16.840.1.113883.3.526.3.1417,Cloudy Cornea,20140701
+2.16.840.1.113883.3.526.3.1418,Corneal Edema,20140701
+2.16.840.1.113883.3.526.3.1419,Corneal Opacity and Other Disorders of Cornea,20140701
+2.16.840.1.113883.3.526.3.1420,"Cysts of Iris, Ciliary Body, and Anterior Chamber",20140701
+2.16.840.1.113883.3.526.3.1421,Enophthalmos,20140701
+2.16.840.1.113883.3.526.3.1422,Excision of Adhesions,20140701
+2.16.840.1.113883.3.526.3.1423,Glaucoma,20140701
+2.16.840.1.113883.3.526.3.1424,Hereditary Corneal Dystrophies,20140701
+2.16.840.1.113883.3.526.3.1425,High Hyperopia,20140701
+2.16.840.1.113883.3.526.3.1426,Hypotony of Eye,20140701
+2.16.840.1.113883.3.526.3.1427,Injury to Optic Nerve and Pathways,20140701
+2.16.840.1.113883.3.526.3.1428,Central Corneal Ulcer,20140701
+2.16.840.1.113883.3.526.3.1429,Lens Procedure,20140701
+2.16.840.1.113883.3.526.3.1430,Open Wound of Eyeball,20140701
+2.16.840.1.113883.3.526.3.1432,Pathologic Myopia,20140701
+2.16.840.1.113883.3.526.3.1433,Posterior Lenticonus,20140701
+2.16.840.1.113883.3.526.3.1434,Prior Pars Plana Vitrectomy,20140701
+2.16.840.1.113883.3.526.3.1435,Pseudoexfoliation Syndrome,20140701
+2.16.840.1.113883.3.526.3.1436,Removal Procedures,20140701
+2.16.840.1.113883.3.526.3.1437,Retinal Repair Procedures,20140701
+2.16.840.1.113883.3.526.3.1438,Retrolental Fibroplasias,20140701
+2.16.840.1.113883.3.526.3.1439,Revision Procedures,20140701
+2.16.840.1.113883.3.526.3.1440,Scleral Procedures,20140701
+2.16.840.1.113883.3.526.3.1441,Senile Cataract,20140701
+2.16.840.1.113883.3.526.3.1442,Use of Systemic Sympathetic alpha-1a Antagonist Medication for Treatment of Prostatic Hypertrophy,20140701
+2.16.840.1.113883.3.526.3.1443,Traumatic Cataract,20140701
+2.16.840.1.113883.3.526.3.1444,Uveitis,20140701
+2.16.840.1.113883.3.526.3.1445,Vascular Disorders of Iris and Ciliary Body,20140701
+2.16.840.1.113883.3.526.3.1446,Visual Field Defects,20140701
+2.16.840.1.113883.3.526.3.1447,Vitreous Procedures,20140701
+2.16.840.1.113883.3.526.3.1448,Amblyopia,20140701
+2.16.840.1.113883.3.526.3.1449,Chorioretinal Scars,20140701
+2.16.840.1.113883.3.526.3.1450,Choroidal Degenerations,20140701
+2.16.840.1.113883.3.526.3.1451,Choroidal Detachment,20140701
+2.16.840.1.113883.3.526.3.1452,Choroidal Hemorrhage and Rupture,20140701
+2.16.840.1.113883.3.526.3.1453,Degeneration of Macula and Posterior Pole,20140701
+2.16.840.1.113883.3.526.3.1454,Degenerative Disorders of Globe,20140701
+2.16.840.1.113883.3.526.3.1455,Diabetic Macular Edema,20140701
+2.16.840.1.113883.3.526.3.1457,Disorders of Optic Chiasm,20140701
+2.16.840.1.113883.3.526.3.1458,Disorders of Visual Cortex,20140701
+2.16.840.1.113883.3.526.3.1459,Disseminated Chorioretinitis and Disseminated Retinochoroiditis,20140701
+2.16.840.1.113883.3.526.3.1460,Focal Chorioretinitis and Focal Retinochoroiditis,20140701
+2.16.840.1.113883.3.526.3.1461,"Glaucoma Associated with Congenital Anomalies, Dystrophies, and Systemic Syndromes",20140701
+2.16.840.1.113883.3.526.3.1462,Hereditary Choroidal Dystrophies,20140701
+2.16.840.1.113883.3.526.3.1463,Hereditary Retinal Dystrophies,20140701
+2.16.840.1.113883.3.526.3.1464,"Moderate or Severe Impairment, Better Eye, Profound Impairment Lesser Eye",20140701
+2.16.840.1.113883.3.526.3.1465,Nystagmus and Other Irregular Eye Movements,20140701
+2.16.840.1.113883.3.526.3.1466,Optic Atrophy,20140701
+2.16.840.1.113883.3.526.3.1467,Optic Neuritis,20140701
+2.16.840.1.113883.3.526.3.1468,Other and Unspecified Forms of Chorioretinitis and Retinochoroiditis,20140701
+2.16.840.1.113883.3.526.3.1469,Other Background Retinopathy and Retinal Vascular Changes,20140701
+2.16.840.1.113883.3.526.3.1470,Other Corneal Deformities,20140701
+2.16.840.1.113883.3.526.3.1471,Other Disorders of Optic Nerve,20140701
+2.16.840.1.113883.3.526.3.1472,Other Disorders of Sclera,20140701
+2.16.840.1.113883.3.526.3.1473,Other Endophthalmitis,20140701
+2.16.840.1.113883.3.526.3.1474,Other Retinal Disorders,20140701
+2.16.840.1.113883.3.526.3.1475,Prior Penetrating Keratoplasty,20140701
+2.16.840.1.113883.3.526.3.1476,"Profound Impairment, Both Eyes",20140701
+2.16.840.1.113883.3.526.3.1477,Purulent Endophthalmitis,20140701
+2.16.840.1.113883.3.526.3.1478,Retinal Detachment with Retinal Defect,20140701
+2.16.840.1.113883.3.526.3.1479,Retinal Vascular Occlusion,20140701
+2.16.840.1.113883.3.526.3.1481,Scleritis and Episcleritis,20140701
+2.16.840.1.113883.3.526.3.1482,Separation of Retinal Layers,20140701
+2.16.840.1.113883.3.526.3.1483,Visual Acuity 20/40 or Better,20140701
+2.16.840.1.113883.3.526.3.1484,Suicide Risk Assessment,20140701
+2.16.840.1.113883.3.526.3.1485,Chemotherapy for Colon Cancer - Capecitabine Ingredient,20140701
+2.16.840.1.113883.3.526.3.1486,Chemotherapy for Colon Cancer - Fluorouracil Ingredient,20140701
+2.16.840.1.113883.3.526.3.1487,Tamoxifen or Aromatase Inhibitor Therapy Ingredient,20140701
+2.16.840.1.113883.3.526.3.1488,Best Corrected Visual Acuity,20140701
+2.16.840.1.113883.3.526.3.1489,ACE Inhibitor or ARB Ingredient,20140701
+2.16.840.1.113883.3.526.3.1490,Chemotherapy for Colon Cancer - Leucovorin and Levo-Leucovorin Ingredient,20140701
+2.16.840.1.113883.3.526.3.1491,Major Depressive Disorder-Active,20140701
+2.16.840.1.113883.3.526.3.1492,Psych Visit - Diagnostic Evaluation,20140701
+2.16.840.1.113883.3.526.3.1493,Beta Blocker Therapy Ingredient,20140701
+2.16.840.1.113883.3.526.3.1494,Reason Documented,20140701
+2.16.840.1.113883.3.526.3.1495,Chemotherapy for Colon Cancer - Oxaliplatin Ingredient,20140701
+2.16.840.1.113883.3.526.3.1496,Psych Visit - Psychotherapy,20140701
+2.16.840.1.113883.3.526.3.319,Prostate Cancer,20140701
+2.16.840.1.113883.3.526.3.320,Bone Scan,20140701
+2.16.840.1.113883.3.526.3.326,Primary Open-Angle Glaucoma,20140701
+2.16.840.1.113883.3.526.3.327,Diabetic Retinopathy,20140701
+2.16.840.1.113883.3.526.3.353,End Stage Renal Disease,20140701
+2.16.840.1.113883.3.526.3.362,Asthma,20140701
+2.16.840.1.113883.3.526.3.366,Arrhythmia,20140701
+2.16.840.1.113883.3.526.3.367,Atrioventricular Block,20140701
+2.16.840.1.113883.3.526.3.368,Cardiac Pacer in Situ,20140701
+2.16.840.1.113883.3.526.3.369,Coronary Artery Disease No MI,20140701
+2.16.840.1.113883.3.526.3.370,Hypotension,20140701
+2.16.840.1.113883.3.526.3.371,Cardiac Surgery,20140701
+2.16.840.1.113883.3.526.3.376,Heart Failure,20140701
+2.16.840.1.113883.3.526.3.378,Pregnancy,20140701
+2.16.840.1.113883.3.526.3.389,Breast Cancer,20140701
+2.16.840.1.113883.3.526.3.391,Colon Cancer,20140701
+2.16.840.1.113883.3.526.3.397,Gleason Score,20140701
+2.16.840.1.113883.3.526.3.398,Prostate Cancer Treatment,20140701
+2.16.840.1.113883.3.526.3.399,Salvage Therapy,20140701
+2.16.840.1.113883.3.526.3.401,Prostate Specific Antigen Test,20140701
+2.16.840.1.113883.3.526.3.402,Influenza Vaccination,20140701
+2.16.840.1.113883.3.526.3.403,Myocardial Infarction,20140701
+2.16.840.1.113883.3.526.3.412,Bradycardia,20140701
+2.16.840.1.113883.3.526.3.447,Metastatic Sites Common to Breast Cancer,20140701
+2.16.840.1.113883.3.526.3.451,Pain Related to Prostate Cancer,20140701
+2.16.840.1.113883.3.526.3.471,Bilateral Oophorectomy,20140701
+2.16.840.1.113883.3.526.3.485,Chemotherapy,20140701
+2.16.840.1.113883.3.526.3.490,Metastatic Sites Common to Colon Cancer,20140701
+2.16.840.1.113883.3.526.3.509,Tobacco Use Cessation Counseling,20140701
+2.16.840.1.113883.3.560.100.1,Male,20140701
+2.16.840.1.113883.3.560.100.2,Female,20140701
+2.16.840.1.113883.3.560.100.4,birth date,20140530
+2.16.840.1.113883.3.600.1.1498,Above Normal Medications,20140701
+2.16.840.1.113883.3.600.1.1499,Below Normal Medications,20140701
+2.16.840.1.113883.3.600.1.1502,Medical or Other reason not done,20140701
+2.16.840.1.113883.3.600.1.1503,Patient Reason Refused,20140701
+2.16.840.1.113883.3.600.1.1525,Above Normal Follow-up,20140701
+2.16.840.1.113883.3.600.1.1527,Referrals where weight assessment may occur,20140701
+2.16.840.1.113883.3.600.1.1528,Below Normal Follow up,20140701
+2.16.840.1.113883.3.600.1.1579,Palliative Care,20140701
+2.16.840.1.113883.3.600.1.1623,Pregnancy Dx,20140701
+2.16.840.1.113883.3.600.1.1751,BMI Encounter Code Set,20140701
+2.16.840.1.113883.3.600.1.1834,Medications Encounter Code Set,20140701
+2.16.840.1.113883.3.600.145,Depression diagnosis,20140701
+2.16.840.1.113883.3.600.1.462,Current Medications Documented SNMD,20140701
+2.16.840.1.113883.3.600.1474,Followup within one year,20140701
+2.16.840.1.113883.3.600.1475,Referral to Alternative Provider / Primary Care Provider,20140701
+2.16.840.1.113883.3.600.1476,Anti-Hypertensive Pharmacologic Therapy,20140701
+2.16.840.1.113883.3.600.1482,Laboratory Tests for Hypertension,20140701
+2.16.840.1.113883.3.600.1508,Lifestyle Recommendation,20140701
+2.16.840.1.113883.3.600.1510,Weight Reduction Recommended,20140701
+2.16.840.1.113883.3.600.1515,Dietary Recommendations,20140701
+2.16.840.1.113883.3.600.1518,Physical Activity Recommendation,20140701
+2.16.840.1.113883.3.600.1521,Medical reason,20140701
+2.16.840.1.113883.3.600.1537,Followup within 4 weeks,20140701
+2.16.840.1.113883.3.600.1542,Additional evaluation for depression - adolescent,20140701
+2.16.840.1.113883.3.600.1545,Additional evaluation for depression - adult,20140701
+2.16.840.1.113883.3.600.1557,Family History CHD,20140701
+2.16.840.1.113883.3.600.1561,Framingham coronary heart disease 10 year risk,20140701
+2.16.840.1.113883.3.600.1622,Pregnancy,20140701
+2.16.840.1.113883.3.600.1.681,BMI LOINC Value,20140701
+2.16.840.1.113883.3.600.1916,Depression Screening Denominator Encounter Codes New,20140701
+2.16.840.1.113883.3.600.1920,BP Screening Denominator Encounter Codes Grouped New,20140701
+2.16.840.1.113883.3.600.1951,Cholesterol Measure Encounter Codes,20140701
+2.16.840.1.113883.3.600.2387,Overweight,20140701
+2.16.840.1.113883.3.600.2388,Underweight,20140701
+2.16.840.1.113883.3.600.2390,Current Cigarette Smoker,20140701
+2.16.840.1.113883.3.600.2395,Finding of Hypertension,20140701
+2.16.840.1.113883.3.600.2448,ECG 12 lead or study order,20140701
+2.16.840.1.113883.3.600.2449,Adult Depression Screening,20140701
+2.16.840.1.113883.3.600.2450,Positive Depression Screening,20140701
+2.16.840.1.113883.3.600.2451,Negative Depression Screening,20140701
+2.16.840.1.113883.3.600.2452,Adolescent Depression Screening,20140701
+2.16.840.1.113883.3.600.2454,Depression Screening Result,20140701
+2.16.840.1.113883.3.600.263,Diagnosis of hypertension grouped,20140701
+2.16.840.1.113883.3.600.450,Bipolar Diagnosis,20140701
+2.16.840.1.113883.3.600.467,Follow-up for depression - adolescent,20140701
+2.16.840.1.113883.3.600.468,Follow-up for depression - adult,20140701
+2.16.840.1.113883.3.600.469,Depression medications - adolescent,20140701
+2.16.840.1.113883.3.600.470,Depression medications - adult,20140701
+2.16.840.1.113883.3.600.537,Referral for Depression Adolescent,20140701
+2.16.840.1.113883.3.600.538,Referral for Depression Adult,20140701
+2.16.840.1.113883.3.600.559,Suicide Risk Assessment,20140701
+2.16.840.1.113883.3.600.791,Patient Reason refused,20140701
+2.16.840.1.113883.3.600.792,Medical reason contraindicated,20140701
+2.16.840.1.113883.3.600.823,Moderation of ETOH Consumption Recommendation,20140701
+2.16.840.1.113883.3.600.863,CHD or CHD Risk Equivalent,20140701
+2.16.840.1.113883.3.600.872,LDL Code,20140701
+2.16.840.1.113883.3.600.875,High Density Lipoprotein (HDL),20140701
+2.16.840.1.113883.3.600.879,Total Cholesterol,20140701
+2.16.840.1.113883.3.600.883,Triglycerides,20140701
+2.16.840.1.113883.3.666.5.1058,Hospital Measures-Beta lactams for allergy determination,20140401
+2.16.840.1.113883.3.666.5.1108,Hospital measures-Route IV,20140401
+2.16.840.1.113883.3.666.5.1109,Hospital Measures-Route IV/IM,20140401
+2.16.840.1.113883.3.666.5.1111,"Hospital measures-Route IV, oral or IM",20140401
+2.16.840.1.113883.3.666.5.1112,Hospital Measures-Route IV or PO,20140401
+2.16.840.1.113883.3.666.5.1145,Hospital Measures - Hold,20140401
+2.16.840.1.113883.3.666.5.1151,Hospital Measures-Aortic balloon pump insertion,20140401
+2.16.840.1.113883.3.666.5.1566,Impaired Fetal Growth Group,20140401
+2.16.840.1.113883.3.666.5.1567,Birth Trauma or Injuries Group,20140401
+2.16.840.1.113883.3.666.5.1568,Newborn Affected by Placenta or Abruption Group,20140401
+2.16.840.1.113883.3.666.5.1570,Congenital Anomalies Group,20140401
+2.16.840.1.113883.3.666.5.1571,Hemolytic Disease Group,20140401
+2.16.840.1.113883.3.666.5.1573,Hydrops Group,20140401
+2.16.840.1.113883.3.666.5.1574,Drug Withdrawal Syndrome Group,20140401
+2.16.840.1.113883.3.666.5.1576,Laryngeal Stenosis Group,20140401
+2.16.840.1.113883.3.666.5.1577,Hypoxia or Asphyxia Group,20140401
+2.16.840.1.113883.3.666.5.1580,Congenital or Infantile Cerebral Palsy Group,20140401
+2.16.840.1.113883.3.666.5.1581,Shock and Complications Group,20140401
+2.16.840.1.113883.3.666.5.1582,Arterial or Umbilical Venous Cath Group,20140401
+2.16.840.1.113883.3.666.5.1583,TPN Procedure Group,20140401
+2.16.840.1.113883.3.666.5.1584,Gastrostomy Group,20140401
+2.16.840.1.113883.3.666.5.1585,Gavage Feeding Group,20140401
+2.16.840.1.113883.3.666.5.1586,Cardiopulmonary Resuscitation Group,20140401
+2.16.840.1.113883.3.666.5.1588,Respiratory Problems Group,20140401
+2.16.840.1.113883.3.666.5.1589,Respiratory Procedures Group,20140401
+2.16.840.1.113883.3.666.5.1590,Infection Group,20140401
+2.16.840.1.113883.3.666.5.1591,Neurologic Complications Group,20140401
+2.16.840.1.113883.3.666.5.1592,Neurologic Procedure Group,20140401
+2.16.840.1.113883.3.666.5.1593,Hyperbilirubinemia Group,20140401
+2.16.840.1.113883.3.666.5.1594,Phototherapy Procedure Group,20140401
+2.16.840.1.113883.3.666.5.1595,Social Reasons Group,20140401
+2.16.840.1.113883.3.666.5.1596,Gestational age >= 37 weeks,20140401
+2.16.840.1.113883.3.666.5.1618,Neonatal Death SM-CT,20140401
+2.16.840.1.113883.3.666.5.1726,Hospital Measures-Immunodeficient Conditions,20140401
+2.16.840.1.113883.3.666.5.1741,Hospital measures-Pacemaker or implantable defibrillator insertion procedure,20140401
+2.16.840.1.113883.3.666.5.1743,General or Neuraxial Anesthesia,20140401
+2.16.840.1.113883.3.666.5.1816,Hospital measures-Knee arthroplasty,20140401
+2.16.840.1.113883.3.666.5.1921,Hospital Measures-Caesarean Section,20140401
+2.16.840.1.113883.3.666.5.1940,Hospital Measures-Immunocompromised Conditions,20140401
+2.16.840.1.113883.3.666.5.2128,IV Positive Inotropic and Vasopressor Agents,20140401
+2.16.840.1.113883.3.666.5.2129,Paralytic Agents,20140401
+2.16.840.1.113883.3.666.5.2160,Hospital Measures-Restrictive lung disease,20140401
+2.16.840.1.113883.3.666.5.2162,Hospital Measures-Respiratory infection,20140401
+2.16.840.1.113883.3.666.5.2192,Hospital Measures-Wound Care,20140401
+2.16.840.1.113883.3.666.5.2197,Hospital Measures-Prolonged QT Interval,20140401
+2.16.840.1.113883.3.666.5.2202,Hospital Measures-Nursing Home or Ext Fac Transfer,20140401
+2.16.840.1.113883.3.666.5.2203,Hospital Measures-IV Tigecycline,20140401
+2.16.840.1.113883.3.666.5.2204,Hospital Measures-IV Tetracycline,20140401
+2.16.840.1.113883.3.666.5.2205,Hospital Measures-Francisella Tularensis or Yersinia pestis,20140401
+2.16.840.1.113883.3.666.5.2254,Hospital measures - Request of physician,20140401
+2.16.840.1.113883.3.666.5.2256,Any Infection Prior to Anesthesia Concepts,20140401
+2.16.840.1.113883.3.666.5.2275,Hospital Measures-Cardiac Valve Surgery,20140401
+2.16.840.1.113883.3.666.5.2278,Hospital Measures-MRSA Colonization or Infection,20140401
+2.16.840.1.113883.3.666.5.2282,Hospital measures-Hemodialysis or peritoneal dialysis,20140401
+2.16.840.1.113883.3.666.5.2289,Hospital measures-Acute care hospital encounter,20140401
+2.16.840.1.113883.3.666.5.2310,Hospital Measures-SCIP Urological/Perineal procedures with potential need of indwelling catheters,20140401
+2.16.840.1.113883.3.666.5.2313,Hospital Measures-SCIP urinary diversion procedures,20140401
+2.16.840.1.113883.3.666.5.2319,Hospital Measures-Respiratory failure acute or chronic,20140401
+2.16.840.1.113883.3.666.5.2348,Hospital Measures-Immunocompromised Therapies,20140401
+2.16.840.1.113883.3.666.5.2365,Hospital Measures-Radiologic Finding-Normal SM-CT,20140401
+2.16.840.1.113883.3.666.5.2486,ICU Locations,20140401
+2.16.840.1.113883.3.666.5.3006,Hospital Measures-ED Locations,20140401
+2.16.840.1.113883.3.666.5.3011,Hospital Measures - AMI,20140401
+2.16.840.1.113883.3.666.5.3013,Hospital Measures-Acute care hospital,20140401
+2.16.840.1.113883.3.666.5.3015,Hospital Measures-Ventricular Assist Device placement,20140401
+2.16.840.1.113883.3.666.5.3022,Hospital Measures-Acute or Evolving MI,20140401
+2.16.840.1.113883.3.666.5.307,Encounter Inpatient,20140401
+2.16.840.1.113883.3.666.5.463,Hospital Measures-IV PO Quinolone Antipneumococcal,20140401
+2.16.840.1.113883.3.666.5.465,Hospital Measures-IV Quinolones Antipneumococcal,20140401
+2.16.840.1.113883.3.666.5.626,Hospital Measures-Aspirin,20140401
+2.16.840.1.113883.3.666.5.672,Hospital Measures-Septicemia,20140401
+2.16.840.1.113883.3.666.5.678,Hospital Measures-Chest xray SM-CT,20140401
+2.16.840.1.113883.3.666.5.680,Hospital Measures-CT scan including chest,20140401
+2.16.840.1.113883.3.666.5.684,Hospital Measures-Acute care hospital,20140401
+2.16.840.1.113883.3.666.5.687,Hospital Measures-Ambulatory surgical center,20140401
+2.16.840.1.113883.3.666.5.693,"IV, IM, PO Antimicrobial Medications",20140401
+2.16.840.1.113883.3.666.5.694,Hospital measures-CABG,20140401
+2.16.840.1.113883.3.666.5.696,Hospital Measures - Any infection,20140401
+2.16.840.1.113883.3.666.5.701,Hospital measures-Other Cardiac Surgery,20140401
+2.16.840.1.113883.3.666.5.703,Hospital measures-Hip arthroplasty,20140401
+2.16.840.1.113883.3.666.5.705,Hospital measures- Colon surgery,20140401
+2.16.840.1.113883.3.666.5.708,Hospital Measures-IV Metronidazole,20140401
+2.16.840.1.113883.3.666.5.710,Hospital measures-Abdominal hysterectomy,20140401
+2.16.840.1.113883.3.666.5.712,Hospital measures-Vaginal hysterectomy,20140401
+2.16.840.1.113883.3.666.5.713,Hospital measures-Vascular surgery,20140401
+2.16.840.1.113883.3.666.5.719,Hospital Measures-Chronic Wound Care,20140401
+2.16.840.1.113883.3.666.5.720,Hospital Measures-IV or IM Beta lactams,20140401
+2.16.840.1.113883.3.666.5.724,Hospital Measures-IV Colon-Antibiotics,20140401
+2.16.840.1.113883.3.666.5.725,Hospital Measures-IV Ertapenem,20140401
+2.16.840.1.113883.3.666.5.727,Hospital Measures-IV Aminoglycosides,20140401
+2.16.840.1.113883.3.666.5.728,Hospital Measures-IV Aztreonam,20140401
+2.16.840.1.113883.3.666.5.729,Antibiotics for Prophylaxis for Hysterectomy Surgeries,20140401
+2.16.840.1.113883.3.666.5.730,Expired,20140401
+2.16.840.1.113883.3.666.5.735,Hospital Measures-ECG,20140401
+2.16.840.1.113883.3.666.5.736,Hospital Measures-Fibrinolytic Therapy,20140401
+2.16.840.1.113883.3.666.5.748,Hospital Measures-Cardiopulmonary arrest,20140401
+2.16.840.1.113883.3.666.5.752,Hospital Measures-Pneumonia,20140401
+2.16.840.1.113883.3.666.5.758,Hospital Measures-IV Macrolides ICU,20140401
+2.16.840.1.113883.3.666.5.759,Hospital Measures-IV Antipneumococcal/antipseudomonal beta lactams,20140401
+2.16.840.1.113883.3.666.5.760,Hospital Measures-IV or PO Levofloxacin,20140401
+2.16.840.1.113883.3.666.5.765,IV Antimicrobial medication,20140401
+2.16.840.1.113883.3.666.5.766,Hospital measures-IV Vancomycin,20140401
+2.16.840.1.113883.3.666.5.767,Hospital Measures-IV Hysterectomy and Colon Quinolones,20140401
+2.16.840.1.113883.3.666.5.768,Cefuroxime and Cefazolin Antibiotics for IV Administration,20140401
+2.16.840.1.113883.3.666.5.770,Hospital Measures-IV Beta lactams,20140401
+2.16.840.1.113883.3.666.5.772,Hospital Measures-IV or PO Macrolides Non-ICU,20140401
+2.16.840.1.113883.3.666.5.773,Hospital Measures-Bronchiectasis,20140401
+2.16.840.1.113883.3.666.5.774,Hospital Measures-Structural lung disease,20140401
+2.16.840.1.113883.3.666.5.775,Hospital Measures-Chronic bronchitis,20140401
+2.16.840.1.113883.3.666.5.776,Hospital Measures-COPD,20140401
+2.16.840.1.113883.3.666.5.777,Hospital Measures-Interstital lung disease,20140401
+2.16.840.1.113883.3.666.5.779,Hospital Measures-IV or IM Aztreonam,20140401
+2.16.840.1.113883.3.666.5.782,Hospital Measures-Ventilator care,20140401
+2.16.840.1.113883.3.666.5.783,Hospital Measures-Healthcare associated pneumonia,20140401
+2.16.840.1.113883.3.666.5.787,Hospital Measures-Neutrophil count,20140401
+2.16.840.1.113883.3.666.5.801,Hospital Measures-Organ transplant,20140401
+2.16.840.1.113883.3.666.5.803,Hospital Measures-Systemic immunosuppressive therapy,20140401
+2.16.840.1.113883.3.666.5.805,Hospital Measures-Systemic corticosteroid/prednisone therapy,20140401
+2.16.840.1.113883.3.666.5.806,Hospital Measures-Emphysema,20140401
+2.16.840.1.113883.3.666.5.822,Hospital Measures-SCIP urinary diversion,20140401
+2.16.840.1.113883.3.666.5.825,Hospital Measures-Intermittent Catheterization,20140401
+2.16.840.1.113883.3.666.5.827,Hospital Measures-Suprapubic catheter,20140401
+2.16.840.1.113883.3.666.5.829,Hospital Measures-Diuretics RxNorm,20140401
+2.16.840.1.113883.3.666.5.835,IV quinolones,20140401
+2.16.840.1.113883.3.666.5.840,Hospital Measures-IV or PO Tetracyclines,20140401
+2.16.840.1.113883.3.666.5.893,Hospital Measures-IV Clindamycin,20140401
+2.16.840.1.113883.3.666.5.896,Hospital Measures-IV Antipseudomonal quinolones,20140401
+2.16.840.1.113883.3.67.1.101.1.128,Bipolar Disorder,20140701
+2.16.840.1.113883.3.67.1.101.11.721,Deceased,20140701
+2.16.840.1.113883.3.67.1.101.11.723,PHQ-9 Tool,20140701
+2.16.840.1.113883.3.67.1.101.1.246,Personality Disorder,20140701
+2.16.840.1.113883.3.67.1.101.1.254,Dysthymia,20140701
+2.16.840.1.113883.3.67.1.101.1.269,Hepatitis B,20140701
+2.16.840.1.113883.3.67.1.101.1.278,Delivery - Diagnosis,20140701
+2.16.840.1.113883.3.67.1.101.1.279,HBsAg,20140701
+2.16.840.1.113883.3.67.1.101.950,Hospital Measures-Hospital outpatient department,20140401
+2.16.840.1.114222.4.11.3591,Payer,20140530
+2.16.840.1.114222.4.11.836,Race,20140530
+2.16.840.1.114222.4.11.837,Ethnicity,20140530
+2.16.840.1.114222.4.1.214079.1.1.1,Livebirth,20140401
+2.16.840.1.114222.4.1.214079.1.1.3,Newborn Hearing Screen Left,20140401
+2.16.840.1.114222.4.1.214079.1.1.4,Newborn Hearing Screen Right,20140401
+2.16.840.1.114222.4.1.214079.1.1.6,Pass Or Refer,20140401
+2.16.840.1.114222.4.1.214079.1.1.7,Medical Reasons,20140401
+2.16.840.113883.3.67.1.101.3.2444,Major Depression Including Remission,20140701
+2.16.840.113883.3.67.1.101.3.2445,Psych Visit,20140701

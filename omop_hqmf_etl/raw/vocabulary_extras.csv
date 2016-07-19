@@ -1,0 +1,17 @@
+vocabulary_id,vocabulary_name
+40000,hqmf value sets
+40113,HQMF miscellaneous concepts
+40114,hqmf_overflow_SNOMED-CT__14
+40115,hqmf_overflow_ICD-9-CM__7
+40116,hqmf_overflow_HQMF miscellaneous concepts__4
+40117,hqmf_overflow_CPT__8
+40118,hqmf_overflow_LOINC__5
+40119,hqmf_overflow_HL7 Healthcare Service Location__9
+40120,hqmf_overflow_ICD-10-PCS__11
+40121,hqmf_overflow_DischargeDisposition__1
+40122,hqmf_overflow_AdministrativeSex__3
+40123,hqmf_overflow_RxNorm__12
+40124,hqmf_overflow_ICD-9-CM__6
+40125,hqmf_overflow_HCPCS__10
+40126,hqmf_overflow_ICD-10-CM__13
+40127,hqmf_overflow_CVX__2

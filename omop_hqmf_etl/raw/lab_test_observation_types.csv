@@ -1,0 +1,6 @@
+concept_id,concept_name,concept_level,concept_class,vocabulary_id,concept_code,valid_start_date,valid_end_date,invalid_reason
+38000281,Observation recorded from EHR with text result,1,Observation Type,39,OMOP generated,2009-01-01,2011-12-05,D
+38000277,Lab observation numeric result,1,Observation Type,39,OMOP generated,2009-01-01,2011-12-05,D
+38000280,Observation recorded from EHR,1,Observation Type,39,OMOP generated,2009-01-01,2011-12-05,D
+38000279,Lab observation concept code result,1,Observation Type,39,OMOP generated,2009-01-01,2011-12-05,D
+38000278,Lab observation text,1,Observation Type,39,OMOP generated,2009-01-01,2011-12-05,D

@@ -1,0 +1,3 @@
+relationship_id,relationship_name,is_hierarchical,defines_ancestry,reverse_relationship
+1000,in value set (HQMF),0,0,
+1001,mapped value in value set (HQMF),0,0,
