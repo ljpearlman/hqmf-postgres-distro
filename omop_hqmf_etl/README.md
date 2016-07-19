@@ -1,6 +1,6 @@
 Before starting: Create a database with OMOP data.
 
-SECTION 1: PRELIMINARIES
+# Section 1: Preliminaries
 
 Step 0 (optional): The tune_omop.sql file creates some indexes and does some clustering that at one point
 seemed to make things go faster. If you want to, look it over and run some or all of it.
@@ -20,6 +20,7 @@ be used in the rest of the sql scripts.
 
 :person_primary_key_index - the name of the existing primary key on your PERSON table. You can find it with something like:
 
+```
 hqmf=# \d omop_test.person
                   Table "omop_test.person"
          Column         |         Type          | Modifiers 
@@ -29,6 +30,7 @@ hqmf=# \d omop_test.person
    ...
 Indexes:
     "person_pk" PRIMARY KEY, btree (person_id)
+```
 
 If you don't have a primary key on your PERSON table, create one ("alter table person add primary key (person_id)").
 
@@ -49,7 +51,7 @@ data and create schemas in your database:
 
 psql -f create_hqmf_user.sql mydb
 
-SECTION 2: CREATE VOCABULARY AND CODE SET TABLES
+# Section 2: Create vocabulary and code set tables
 
 These steps create a bunch of database artifacts that represent codes
 and value set mappings. You need to do this once at the beginning, and
@@ -58,7 +60,7 @@ again if you add or change value set definitions.
 If you're feeling brave and impatient, then instead of running all the
 individual sql scripts here, you can run:
 
-   ./create-vocab-and-value-sets.sh -U hqmfuser mydb
+   `./create-vocab-and-value-sets.sh -U hqmfuser mydb`
 
 where hqmfuser is the database user you created earlier, and mydb is
 your database. Everything on the command line just gets passed as
@@ -101,12 +103,14 @@ psql -f create_valueset_omop_mappings.sql -U hqmfuser mydb
 psql -f load_hl7_tables.sql -U hqmfuser mydb
 
 
-SECTION 3: ETL YOUR ACTUAL DATA
+# Section 3: ETL your actual data
 
 This next bunch will create a schema (:hqmf_schema) for the HQMF-format
 version of your data, and another (:omop_hqmf_additions_schema) for
 data that's sort of halfway between OMOP and HQMF:
 
+```
 psql -f create_omop_views.sql -U hqmfuser mydb
 psql -f create_hqmf_views.sql -U hqmfuser mydb
+```
 
