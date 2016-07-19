@@ -1,6 +1,7 @@
-Before starting: Create a database with OMOP data.
 
 # Section 1: Preliminaries
+
+Before starting: Create a database with OMOP data.
 
 Step 0 (optional): The tune_omop.sql file creates some indexes and does some clustering that at one point
 seemed to make things go faster. If you want to, look it over and run some or all of it.
